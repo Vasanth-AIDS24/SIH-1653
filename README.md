@@ -24,10 +24,10 @@ Data analytics for performance evaluation.
 ```
 
 ## Proposed Solution / Architecture Diagram
-```
+
 ![image](https://github.com/user-attachments/assets/022a1918-3821-4e18-9b36-81c4af7ae89e)
 
-
+```
 
 The system consists of the following major components:
 
@@ -63,9 +63,9 @@ Data encryption for secure candidate information.
 
 ```
 ## Use Cases
-```
-![image](https://github.com/user-attachments/assets/85776faa-61a7-4617-ba79-ad5d1d76f15e)
 
+![image](https://github.com/user-attachments/assets/85776faa-61a7-4617-ba79-ad5d1d76f15e)
+```
 1.Candidate Registration
 
 Candidates sign up and provide details about their expertise and background.
