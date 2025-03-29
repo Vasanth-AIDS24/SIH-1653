@@ -64,7 +64,8 @@ Data encryption for secure candidate information.
 ```
 ## Use Cases
 
-![image](https://github.com/user-attachments/assets/85776faa-61a7-4617-ba79-ad5d1d76f15e)
+
+![image](https://github.com/user-attachments/assets/5a95ea45-13e0-4bb9-a0f4-e5198af65da0)
 ```
 1.Candidate Registration
 
